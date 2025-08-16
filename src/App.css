@@ -1,0 +1,25 @@
+.app{
+  margin-left: 400px;
+}
+h1{
+  text-align: center;
+}
+.todo-div{
+  height: 300px;
+  width: 400px;
+  background-color: white;
+  padding: 40px;
+  border-radius: 14px;
+  color: black;
+}
+#todo-input{
+  height: 40px;
+  width: 250px;
+  border-radius: 8px;
+}
+#add-task-btn{
+  margin-left: 20px;
+}
+li{
+  font-size: 20px;
+}
